@@ -1,4 +1,4 @@
-alias nvim="/Users/nitinthepic/nvim/bin/nvim"
+#alias nvim="${HOME}/nvim/bin/nvim"
 alias ls="ls --color=auto"
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
