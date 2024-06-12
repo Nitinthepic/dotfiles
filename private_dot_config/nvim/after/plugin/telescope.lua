@@ -36,6 +36,7 @@ require('telescope').setup {
         ["<C-e>"] = function(...) return actions.preview_scrolling_down(...) end,
         ["<C-y>"] = function(...) return actions.preview_scrolling_up(...) end,
         ["<C-c>"] = function(...) return actions.close(...) end,
+        ["<leader>q"] = function(...) return actions.close(...) end,
       },
     },
   },
