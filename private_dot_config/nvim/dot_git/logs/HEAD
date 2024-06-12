@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 48eb56ee92fd49ce893e80d3a17bde604d434f1f nitin <nitin@nitinthepicarch.(none)> 1715836971 -0700	clone: from https://github.com/Nitinthepic/nvim-config.git
-48eb56ee92fd49ce893e80d3a17bde604d434f1f 48eb56ee92fd49ce893e80d3a17bde604d434f1f git stash <git@stash> 1715842287 -0700	reset: moving to HEAD
-48eb56ee92fd49ce893e80d3a17bde604d434f1f a18d8a4b639b360636c2d6218185e311d1a8a00b nitin <nitin@nitinthepicarch.(none)> 1715842289 -0700	pull: Fast-forward
-a18d8a4b639b360636c2d6218185e311d1a8a00b a149cfe9b788004e5fe64749fab7d7eec504dce4 Nitin Sharan <nitin.sharan03@gmail.com> 1718172608 -0700	commit: added new keymap for close pane with telescope
